@@ -1,4 +1,8 @@
 Here This merge point Where we them Stagging with Master
+<<<<<<< HEAD
 Hey!! You are in a Master Merge
+
+Hey !!! You are in Stagging Merge
+>>>>>>> 8c31b06aa044f4ea606779ec3cbe89d157facec3
 Hello Welcome to Merge lab
 !!HEY!! This Changing is Added by Master Branch
