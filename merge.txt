@@ -1,3 +1,3 @@
 Here This merge point Where we them Stagging with Master
-
+Hey!! You are in a Master Merge
 Hello Welcome to Merge lab
